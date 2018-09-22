@@ -49,6 +49,7 @@ public class APIKey {
 
 ## Donations / Support Lunary
 Bitcoin: 1FMLkUqm8wx5vjR1A6ntCq2soFGZPLy4Lk
+
 Ethereum: 0x5E2a08E1c6Af3bA4686226A2e04809148375125e
 ## Licence
 GPL3
